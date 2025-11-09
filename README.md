@@ -19,9 +19,3 @@ The presence of trees changes the solution drastically from the solution of the 
 
 ## Solution Description
 See SolutionDescription.pdf.
-
-
-## To-Do
-* Allow certain parameters to be passed in as command line arguments.
-* Test more parameter values to improve speed and accuracy when finding solutions for larger board sizes.
-* Finish writing unit tests for each component of the GA.
